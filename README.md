@@ -27,4 +27,4 @@ Este proyecto se centra en replicar la sección **Hero**, que es la parte princi
 .
 ├── index.html       # Archivo HTML principal con la sección hero
 ├── style.css        # Hojas de estilo para la sección hero
-└── README.md        # Este archivo (documentación del proyecto)
+└── README.md        # Hero README.md (documentación del proyecto)
